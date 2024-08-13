@@ -3,4 +3,6 @@ project(firstPetPr)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(firstPetPr main.cpp)
+add_executable(firstPetPr main.cpp
+        math_operations.h
+        math_operations.cpp)
