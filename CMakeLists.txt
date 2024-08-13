@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(firstPetPr main.cpp
         math_operations.h
-        math_operations.cpp)
+        math_operations.cpp
+        algoritms/two_sum.h
+        algoritms/two_sum.cpp)
