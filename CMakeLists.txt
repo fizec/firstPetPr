@@ -6,14 +6,14 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(firstPetPr main.cpp
         math_operations.h
         math_operations.cpp
-        algoritms/two_sum/two_sum.h
-        algoritms/two_sum/two_sum.cpp
-        coreSyntax/pointer_exampl.h
-        coreSyntax/pointer_exampl.cpp
-        coreSyntax/PointerFunctionClassExample.cpp
-        coreSyntax/PointerFunctionClassExample.h
-        coreSyntax/PrintClass.cpp
-        coreSyntax/PrintClass.h
+        algoritms/twoSum/two_sum.h
+        algoritms/twoSum/two_sum.cpp
+        coreSyntax/pointer/pointer_exampl.h
+        coreSyntax/pointer/pointer_exampl.cpp
+        coreSyntax/pointer/PointerFunctionClassExample.cpp
+        coreSyntax/pointer/PointerFunctionClassExample.h
+        coreSyntax/pointer/PrintClass.cpp
+        coreSyntax/pointer/PrintClass.h
         algoritms/polindrome/PolindromeValidator.cpp
         algoritms/polindrome/PolindromeValidator.h
 )

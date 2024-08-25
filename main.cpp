@@ -1,7 +1,7 @@
 #include <vector>
 
-#include "coreSyntax/PointerFunctionClassExample.h"
-#include "coreSyntax/PrintClass.h"
+#include "coreSyntax/pointer/PointerFunctionClassExample.h"
+#include "coreSyntax/pointer/PrintClass.h"
 #include "algoritms/polindrome/PolindromeValidator.h"
 int main() {
 
