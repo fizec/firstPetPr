@@ -1,8 +1,5 @@
-#include <iostream>
 #include <vector>
-#include "math_operations.h"
-#include "algoritms/two_sum.h"
-#include "coreSyntax/pointer_exampl.h"
+
 #include "coreSyntax/PointerFunctionClassExample.h"
 #include "coreSyntax/PrintClass.h"
 int main() {

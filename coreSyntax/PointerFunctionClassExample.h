@@ -12,9 +12,7 @@
 class PointerFunctionClassExample {
 
 public:
-    [[nodiscard]]int sub(int a, int b) {
-        return a - b;
-    }
+    [[nodiscard]]int sub(int a, int b);
 };
 
 

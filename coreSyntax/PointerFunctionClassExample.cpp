@@ -4,3 +4,6 @@
 
 #include "PointerFunctionClassExample.h"
 
+int PointerFunctionClassExample::sub(int a, int b) {
+    return a - b;
+}
