@@ -9,4 +9,9 @@ add_executable(firstPetPr main.cpp
         algoritms/two_sum.h
         algoritms/two_sum.cpp
         coreSyntax/pointer_exampl.h
-        coreSyntax/pointer_exampl.cpp)
+        coreSyntax/pointer_exampl.cpp
+        coreSyntax/PointerFunctionClassExample.cpp
+        coreSyntax/PointerFunctionClassExample.h
+        coreSyntax/PrintClass.cpp
+        coreSyntax/PrintClass.h
+)
